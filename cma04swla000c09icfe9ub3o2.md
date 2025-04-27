@@ -1,17 +1,16 @@
 ---
 title: "Deep Research for Everyone: OpenAI’s Lightweight Tool Democratizes Knowledge"
-seoTitle: "Deep Research for Everyone: OpenAI’s Lightweight Tool "
+seoTitle: "Deep Research for Everyone: OpenAI’s Lightweight Tool"
 seoDescription: "OpenAI’s new lightweight deep research mode brings advanced AI capabilities to a much wider audience, including non-paying users."
 datePublished: Sun Apr 27 2025 20:58:20 GMT+0000 (Coordinated Universal Time)
 cuid: cma04swla000c09icfe9ub3o2
 slug: deep-research-for-everyone-openais-lightweight-tool-democratizes-knowledge
 canonical: https://medium.com/@djleamen/deep-research-for-everyone-openais-lightweight-tool-democratizes-knowledge-e5a68d8a6e5d
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1745787625094/38282948-6c45-4ebf-be87-d8588d35c444.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1745787466391/6f38953a-1308-498b-8064-f211a86d34b7.png
 tags: ai, artificial-intelligence, openai, chatgpt, deepresearch
 
 ---
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1745787359854/aac4f972-9c7d-45dd-8eab-b8a787a87979.png align="center")
 
 OpenAI’s new lightweight deep research mode brings advanced AI capabilities to a much wider audience, including non-paying users.
 
