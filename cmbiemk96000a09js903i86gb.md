@@ -8,7 +8,7 @@ slug: a-comprehensive-history-of-text-to-speech-tts-and-speech-to-text-stt-techn
 canonical: https://medium.com/@djleamen/a-comprehensive-history-of-text-to-speech-tts-and-speech-to-text-stt-technologies-116c8ad4cd02
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749068405290/c6659a80-238c-41c8-8541-8f6292221835.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1749069131574/80306ecf-474b-495a-9251-bb9437fc455a.png
-tags: ai, amazon, microsoft, opensource, ibm, google, speech-recognition, text-to-speech, speech-to-text, tts, openai, generative-ai
+tags: ai, amazon, microsoft, opensource, ibm, google, deep-learning, speech-recognition, text-to-speech, speech-to-text, tts, openai, generative-ai
 
 ---
 
